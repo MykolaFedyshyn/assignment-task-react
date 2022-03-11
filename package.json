@@ -6,7 +6,6 @@
   "main": "src/index.js",
   "dependencies": {
     "chart.js": "^3.7.1",
-    "faker": "^6.6.6",
     "react": "16.12.0",
     "react-chartjs-2": "^4.0.1",
     "react-dom": "16.12.0",
