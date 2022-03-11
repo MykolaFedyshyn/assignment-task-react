@@ -1,7 +1,7 @@
 {
   "name": "react-app-theme-switcher",
   "version": "1.0.0",
-  "description": "Toggle between light and dark mode.",
+  "description": "react-app",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
